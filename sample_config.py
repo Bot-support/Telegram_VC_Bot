@@ -13,8 +13,8 @@ if HEROKU:
 
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
-    API_ID = 14371
-    API_HASH = "e46b6c854d2bf58a0"
-    ARQ_API_KEY = "Get this from @ARQRobot"
+    API_ID = "3088812"
+    API_HASH = "d51f13802ef40ccb115e333a5f9dc9e7"
+    ARQ_API_KEY = "IFRNXG-FTVINV-FESSFW-LDMSCZ-ARQ"
 # don't make changes below this line
 ARQ_API = "https://thearq.tech"
